@@ -33,12 +33,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `no`,
-        short_name: `no`,
-        description: `no`,
+        name: `Nesa-Media`,
+        short_name: `NesaMedia`,
+        description: `Zhvillim & Kreativitet`,
         start_url: `/`,
         background_color: `#141821`,
-        theme_color: `#f6ad55`,
+        theme_color: `#e63946`,
         display: `standalone`,
         icons: [
           {
