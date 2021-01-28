@@ -9,11 +9,11 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // Of course you can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitle: `NO`,
-    siteTitleAlt: `NO`,
-    siteHeadline: `NO`,
-    siteUrl: `https://NO.de`,
-    siteDescription: `NO`,
+    siteTitle: `Nesa-Media`,
+    siteTitleAlt: `Nesa Media`,
+    siteHeadline: `Shërbime Digjitale`,
+    siteUrl: `https://nesa.media`,
+    siteDescription: `Zhvillim & Kreativitet`,
     siteLanguage: `en`,
     siteImage: `/banner2.jpg`,
     author: `@pixendrit`,
@@ -42,12 +42,12 @@ module.exports = {
         display: `standalone`,
         icons: [
           {
-            src: `/android-chrome-192x192.png`,
+            src: `/android-chrome.png`,
             sizes: `192x192`,
             type: `image/png`,
           },
           {
-            src: `/android-chrome-512x512.png`,
+            src: `/android-chrome512.png`,
             sizes: `512x512`,
             type: `image/png`,
           },
