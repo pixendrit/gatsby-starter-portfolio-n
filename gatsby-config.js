@@ -9,7 +9,15 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // Of course you can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitleAlt: `differente`,
+    siteTitle: `NO`,
+    siteTitleAlt: `NO`,
+    siteHeadline: `NO`,
+    siteUrl: `https://NO.de`,
+    siteDescription: `NO`,
+    siteLanguage: `en`,
+    siteImage: `/banner2.jpg`,
+    author: `@pixendrit`,
+    basePath,
   },
   plugins: [
     {
@@ -26,9 +34,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `different`,
+        name: `no`,
+        short_name: `no`,
+        description: `no`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
