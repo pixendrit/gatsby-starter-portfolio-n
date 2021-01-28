@@ -17,7 +17,6 @@ module.exports = {
     siteLanguage: `en`,
     siteImage: `/banner2.jpg`,
     author: `@pixendrit`,
-    basePath,
   },
   plugins: [
     {
